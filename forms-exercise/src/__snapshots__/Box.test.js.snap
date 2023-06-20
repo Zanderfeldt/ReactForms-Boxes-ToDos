@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="Box"
+      style="width: 5em; height: 5em; background-color: blue;"
+    />
+    <button>
+      X
+    </button>
+  </div>
+</DocumentFragment>
+`;
